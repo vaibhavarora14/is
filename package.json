@@ -1,0 +1,18 @@
+{
+  "name": "is",
+  "version": "0.0.0",
+  "description": "Javascript real-time type checker",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varora1406/is.git"
+  },
+  "author": "Vaibhav <varora1406@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varora1406/is/issues"
+  },
+  "homepage": "https://github.com/varora1406/is#readme"
+}
